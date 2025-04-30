@@ -9,7 +9,7 @@ body {
 }
 
 .profile-card {
-    background-color: #fff;
+    background-color: #FFC0CB;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     padding: 30px;
@@ -18,8 +18,8 @@ body {
 }
 
 .profile-card img {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
